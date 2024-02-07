@@ -19,6 +19,7 @@ body {
   font-size:24px;
   text-align:justify;
   margin: 0;
+  color:#FFFF40;
 
 }
 
@@ -44,10 +45,13 @@ article {
   background-color: "black";
 }
 
-
+h1{
+background-color:#F09922;
+}
 
 h1, h2, h3, h4, h5 {
     color:white;
+
 }
 
 h4 {
@@ -91,7 +95,6 @@ table, th, td {
 }
 
 
-
 .table1, th, td {
   border:1px solid white;
   font-family: courier;
@@ -109,144 +112,12 @@ th.word {
   table-layout: fixed;
 }
 
-th.meaning {
-  width: 30%;
-  table-layout: fixed;
-}
-th.example {
-  width: 40%; /* Not necessary, since only 70% width remains */
-  table-layout: fixed;
-}
-
-td.take {
-  width: 25%; /* Not necessary, since only 70% width remains */
-  table-layout: fixed;
-}
-td.assist {
-  width: 25%; /* Not necessary, since only 70% width remains */
-  table-layout: fixed;
-}
-td.leave {
-  width: 25%; /* Not necessary, since only 70% width remains */
-  table-layout: fixed;
-}
-td.use {
-  width: 25%; /* Not necessary, since only 70% width remains */
-  table-layout: fixed;
-}
 
 
-.table2, td {
-    border:1px solid white;
-  font-family: courier;
-  font-size:21px;
-  border-collapse: collapse;
-  text-align: center;
-  padding: 5px;
-  white-space:no-wrap;
-  table-layout: fixed;
-
-  word-break:keep-all;
-}
-
-.table3, td {
-    border:1px solid white;
-  font-family: courier;
-  font-size: 21px;
-  border-collapse: collapse;
-  text-align: center;
-  padding: 5px;
-  white-space:no-wrap;
-  table-layout: fixed;
-     word-wrap: break-word;
-  word-break:break-all;
-}
-
-.table4, td {
-    border:1px solid white;
-  font-family: courier;
-  font-size: 21px;
-  border-collapse: collapse;
-  text-align: center;
-  padding: 5px;
-  white-space:no-wrap;
-  table-layout: fixed;
-     word-wrap: break-word;
-  word-break:break-all;
-}
-td.careful {
-  width: 50%; /* Not necessary, since only 70% width remains */
-  table-layout: fixed;
-}
-td.restaurant {
-  width: 50%; /* Not necessary, since only 70% width remains */
-  table-layout: fixed;
-}
-
-word-wrap: break-word
-
-.table5, td, th, tr {
-    border:1px solid white;
-  font-family: courier;
-  font-size: 21px;
-  border-collapse: collapse;
-  text-align: left;
-  padding: 5px;
-  white-space:now-wrap;
-  table-layout: fixed;
-    #word-wrap: break-word;
-  word-break:keep-all;
-}
 
 #tr:nth-child(even) {
   #background-color: #D6EEEE;
 #}
-
-
-td.uno {
- width: 36%;
- table-layout: fixed;
- }
-
-td.dos {
- width: 15%;
- table-layout: fixed;
- }
-
-td.tres {
- width:9%;
- table-layout: fixed;
- }
-
-td.cuatro {
- table-layout: fixed;
- }
-
-.rectangle {
-  height: 200px;
-  width: 85%;
-  align:center;
-  background-color: white;
-  }
-
-
-.table6{
-    border:0px;
-  font-family: courier;
-  font-size: 21px;
-  border-collapse: collapse;
-  text-align: left;
-  padding: 5px;
-  white-space:now-wrap;
-  table-layout: fixed;
-    #word-wrap: break-word;
-  word-break:keep-all;
-  border-radius:5%;
-}
-
-td.infographic1 {
-      vertical-align:top;
-}
 
 #toc_container {
     background: #292828 none repeat scroll 0 0;
@@ -288,6 +159,10 @@ li a.active {
 li a:hover:not(.active) {
   background-color: orange;
   color: white;
+}
+
+button{
+background-color: #992910;
 }
 
 
