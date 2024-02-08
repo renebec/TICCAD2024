@@ -87,6 +87,40 @@ function PopWinA1s2cE()
     window.open("popA1s2cE.html","","height=400,width=400,scrollbars=yes");
 }
 
+function PopWinA1s3()
+{
+    window.open("popA1s3.html","width=100%", "_self");
+}
+
+function PopWinA1s3a()
+{
+    window.open("popA1s3a.html","width=100%", "_self");
+}
+
+function PopWinA1s3b()
+{
+    window.open("popA1s3b.html","width=100%", "_self");
+}
+
+function PopWinAr3()
+{
+    floatingWindow = window.open("popAr3.html","","height=400,width=400,scrollbars=yes");
+}
+
+function PopWinAr4()
+{
+    floatingWindow = window.open("popAr4.html","","height=400,width=400,scrollbars=yes");
+}
+
+function PopWinA1s3c()
+{
+    window.open("popA1s3c.html","width=100%", "_self");
+}
+
+function PopWinA1s3cE()
+{
+    window.open("popA1s3cE.html","","height=400,width=400,scrollbars=yes");
+}
 
 
 
