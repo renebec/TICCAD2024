@@ -64,8 +64,28 @@ function PopWinA1s1cE()
 }
 
 
+function PopWinA1s2()
+{
+    window.open("popA1s2.html","width=100%", "_self");
+}
+function PopWinA1s2a()
+{
+    window.open("popA1s2a.html","width=100%", "_self");
+}
+function PopWinA1s2b()
+{
+    window.open("popA1s2b.html","width=100%", "_self");
+}
 
+function PopWinA1s2c()
+{
+    window.open("popA1s2c.html","width=100%", "_self");
+}
 
+function PopWinA1s2cE()
+{
+    window.open("popA1s2cE.html","","height=400,width=400,scrollbars=yes");
+}
 
 
 
