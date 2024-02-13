@@ -167,6 +167,28 @@ function PopWinA1s5cE()
 }
 
 
+function PopWinA1s6()
+{
+    window.open("popA1s6.html","width=100%", "_self");
+}
+function PopWinA1s6a()
+{
+    window.open("popA1s6a.html","width=100%", "_self");
+}
+function PopWinA1s6b()
+{
+    window.open("popA1s6b.html","width=100%", "_self");
+}
+function PopWinA1s6c()
+{
+    window.open("popA1s6c.html","width=100%", "_self");
+}
+function PopWinA1s6cE()
+{
+    window.open("popA1s6cE.html","","height=400,width=400,scrollbars=yes");
+}
+
+
 
 
 
