@@ -5,6 +5,10 @@ var element = document.getElementById('body');
 html2pdf().from(element).save('filename.pdf');
 });
 
+function PopWinClose() {
+ window.close()
+}
+
 function printFunction() {
         window.print();
       }
