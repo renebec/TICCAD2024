@@ -122,8 +122,29 @@ function PopWinA1s3cE()
     window.open("popA1s3cE.html","","height=400,width=400,scrollbars=yes");
 }
 
+function PopWinA1s4()
+{
+    window.open("popA1s4.html","width=100%", "_self");
+}
 
+function PopWinA1s4a()
+{
+    window.open("popA1s4a.html","width=100%", "_self");
+}
 
+function PopWinA1s4b()
+{
+    window.open("popA1s4b.html","width=100%", "_self");
+}
+
+function PopWinA1s4c()
+{
+    window.open("popA1s4c.html","width=100%", "_self");
+}
+function PopWinA1s4cE()
+{
+    window.open("popA1s4cE.html","","height=400,width=400,scrollbars=yes");
+}
 
 
 
