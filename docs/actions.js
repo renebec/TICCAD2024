@@ -145,7 +145,26 @@ function PopWinA1s4cE()
 {
     window.open("popA1s4cE.html","","height=400,width=400,scrollbars=yes");
 }
-
+function PopWinA1s5()
+{
+    window.open("popA1s5.html","width=100%", "_self");
+}
+function PopWinA1s5a()
+{
+    window.open("popA1s5a.html","width=100%", "_self");
+}
+function PopWinA1s5b()
+{
+    window.open("popA1s5b.html","width=100%", "_self");
+}
+function PopWinA1s5c()
+{
+    window.open("popA1s5c.html","width=100%", "_self");
+}
+function PopWinA1s5cE()
+{
+    window.open("popA1s5cE.html","","height=400,width=400,scrollbars=yes");
+}
 
 
 
