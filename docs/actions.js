@@ -192,6 +192,7 @@ function PopWinA1s6cE()
     window.open("popA1s6cE.html","","height=400,width=400,scrollbars=yes");
 }
 
+
 function PopWinA1s7()
 {
     window.open("popA1s7.html","width=100%", "_self");
@@ -211,6 +212,23 @@ function PopWinA1s7c()
 
 
 
+
+function PopWinA1s8()
+{
+    window.open("popA1s8.html","width=100%", "_self");
+}
+function PopWinA1s8a()
+{
+    window.open("popA1s8a.html","width=100%", "_self");
+}
+function PopWinA1s8b()
+{
+    window.open("popA1s8b.html","width=100%", "_self");
+}
+function PopWinA1s8c()
+{
+    window.open("popA1s8c.html","width=100%", "_self");
+}
 
 
 function PopWinA_FINAL()
