@@ -192,6 +192,32 @@ function PopWinA1s6cE()
     window.open("popA1s6cE.html","","height=400,width=400,scrollbars=yes");
 }
 
+function PopWinA1s7()
+{
+    window.open("popA1s7.html","width=100%", "_self");
+}
+function PopWinA1s7a()
+{
+    window.open("popA1s7a.html","width=100%", "_self");
+}
+function PopWinA1s7b()
+{
+    window.open("popA1s7b.html","width=100%", "_self");
+}
+function PopWinA1s7c()
+{
+    window.open("popA1s7c.html","width=100%", "_self");
+
+
+
+
+
+
+function PopWinA_FINAL()
+{
+    window.open("popA_FINAL.html","width=100%", "_self");
+}
+
 
 
 
